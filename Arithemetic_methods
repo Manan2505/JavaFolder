@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class day3
+class Arithemetic_methods
 {
 void addition(int a,int b){
 int c=a+b;
@@ -18,7 +18,7 @@ void multiplication(int a,int b){
 	System.out.println(c);
 }
 public static void main(String[] args){
-	day3 d=new day3();
+	 Arithemetic_methods d=new  Arithemetic_methods();
 	
 	Scanner sc=new Scanner(System.in);
 	System.out.println("enter a value");
