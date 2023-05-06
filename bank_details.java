@@ -1,7 +1,7 @@
 //Class for this keyword
 
 import java.util.Scanner;
-class day3second{
+class bank_details{
 	 /*void fun(){
 		 System.out.printlnln(this);// "this" is used to print the address of current object
 		 System.out.println("hello");
@@ -64,7 +64,7 @@ class day3second{
 		String username=sc.next();
 		System.out.print("enter password: ");
 		int password=sc.nextInt();
-		day3second b=new day3second();
+		bank_details b=new bank_details();
 		int result=b.login(username,password);
 		if(result==1){
 			System.out.println("You are successfully logged in!");
