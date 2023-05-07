@@ -1,0 +1,38 @@
+//1)Primitives are stored in stack Memory
+        //2) A  reference variable can point to another reference variable in java
+        //3) If you have same variable in class,you cannot use same name variable in constructor unless you
+        //use this keyword.
+        //4)In java, there is no pass by reference only pass by value.
+        //5)The immutability of the value is only true for primitive datatypes.
+        //5.1)When i use final keyword for non-primitive datatypes, i can change the value of reference.
+        //but you cannot reassign it.(cannot make a new object for this).
+        //6)We can control what to do when an object is deleted by garbage constructor by using finalize
+        // method.But we can't control to deletion of object(only compiler can).
+        7) When we have static keyword, memory allocation is done on compile time only for static stuff.
+        
+        
+        
+         //1)JDK depends upon OS
+        //2).class file is independent.
+        //3)The size of the memory allocated for a class depends on the complexity of the class.
+        //4)Classes are loaded at runtime.
+        //5)In C main method was called by OS but in java JVM is responsible.
+        //6)When a Java program is compiled, the source code is first compiled into bytecode,
+        // which is a platform-independent representation of the program.
+        // This bytecode is then saved in .class files, which can be executed by any JVM implementation.
+        //7)Datatype which cannot be broken further are called Primitive datatypes.
+        //8)Values are not accurate in float known as floating point error.
+        //9)When a class is declared as final, we cannot extend that class in any other class.
+        //10)Static block only run in the whole program when when the first object is created.
+        
+        
+         //1)The order in which the JVM searches for classes is defined by the class loading hierarchy,
+        // which consists of three built-in class loaders: the bootstrap class loader,
+        // the extension class loader, and the system class loader.
+       //2) Java introduced the concept of "surrogate pairs", which allows two 16-bit char values to be
+        // combined to represent a single Unicode code point. A surrogate pair consists of a high
+        // surrogate and a low surrogate, which are two 16-bit char values that are combined to
+        // form a single 32-bit value.
+        //3) Compile time polymorphism is also known as Static polymorphism and Run time polymorphism is known
+        //as Late binding and dynamic polymorphism.
+        //4) Return type of function must be same or greater than the value type returned.
