@@ -23,3 +23,8 @@ public class Man{
         }
     }
 }
+
+//Ques1: WAP in which i am getting number format, input mismatch and null pointer exceptions ?
+// Hint : null pointer : when reference variable is null
+//     number format: When we convert String into some other datatype(LIke int,float etc)
+//     input mismatch : when we put string in integer
