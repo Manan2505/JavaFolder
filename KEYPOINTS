@@ -9,7 +9,8 @@
         //6)We can control what to do when an object is deleted by garbage constructor by using finalize
         // method.But we can't control to deletion of object(only compiler can).
         7) When we have static keyword, memory allocation is done on compile time only for static stuff.
-        
+        8) We cannot create object of abstract classes
+        9) Static methods can be declared in abstract classes but not viceversa.
         
         
          //1)JDK depends upon OS
