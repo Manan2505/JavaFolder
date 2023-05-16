@@ -11,7 +11,7 @@
         7) When we have static keyword, memory allocation is done on compile time only for static stuff.
         8) We cannot create object of abstract classes
         9) Static methods can be declared in abstract classes but not viceversa.
-        
+        10)To combine 2 or more interfaces we use extends keyword But if we want to combine class with interface, we use implements keyword.
         
          //1)JDK depends upon OS
         //2).class file is independent.
