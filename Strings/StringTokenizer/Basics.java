@@ -11,15 +11,15 @@
 //    }
 //
 //}
-// Java Program to Illustrate StringTokenizer Class
 
-// Importing required classes
+
+
 import java.util.*;
 
-// Main class
+
 public class GFG {
 
-    // Main driver method
+ 
     public static void main(String args[])
     {
 
