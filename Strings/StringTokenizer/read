@@ -1,1 +1,2 @@
-
+StringTokenizer class implements Enumeration
+Enumeration declares method, initialization will be done in stringTokenizer class
