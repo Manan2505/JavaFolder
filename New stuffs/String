@@ -1,0 +1,10 @@
+  String str = "arora";
+        StringBuilder sb=new StringBuilder();
+        sb.append(str);
+        String a= String.valueOf(sb.reverse());// New stuff
+        if(str.equals(a)){
+            System.out.println("palindrome");
+        }
+        else{
+            System.out.println("not");
+        }
