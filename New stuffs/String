@@ -8,3 +8,12 @@
         else{
             System.out.println("not");
         }
+        
+        ----------------------------------------------
+          String num1="3";
+        //System.out.println(num1);
+        String num2="2";
+       int ans=Integer.parseInt(num1);
+       int res=Integer.parseInt(num2);
+        System.out.println(ans * res);
+
