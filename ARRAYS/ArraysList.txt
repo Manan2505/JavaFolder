@@ -1,0 +1,20 @@
+ Arrays class in java
+
+Arrays class is the part of java collection framework in that java util package.It consists of static methods and method of object class.Using Arrays class we can create compare array, sort the array,search the array,stream the array,transform the array.We can access the method of class easily by their class name itself.
+
+Introduction of Arrays class in Java
+
+Java array class was introduce in java version 1.2(array class is a legacy class)
+Arrays is known as legacy class because array class is introduced in 1.2 version.(All classes before 5 versions are known as legacy classes). The method that consists of are used mostly for manupulation of an array including all major operations like creating sorting, searching, comparing.
+
+We can overload methods for most of the data types by arrays class. java.util.Arrays
+
+Q)Why do we need Array class in java?
+Ans: This is because the methods provide by the array class help us to perform useful tasks on arrays conveniently without using loops.
+Array class is extended from object class and the method that is available in object class is inherit by arrays class.
+
+V.IMP: Conversion of arraylist into array and vice-versa.
+
+ArrayList-->Array   : toArray()method
+Array  ----> ArrayList : asList()method
+(We cannot create primitive array into arraylist)
