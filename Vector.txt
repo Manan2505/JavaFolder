@@ -1,0 +1,5 @@
+								Vector
+
+The vector class implements a growable array of objects. Vector falls in legacy class(1.2 v).But now it is fully compatible with collection. It is found in java.util package and implements List interface.
+
+No,doubts.There will be no difference between arraylist and vector. Only one thing is that vector is legacy class because of legacy class, vector class methods having big names so it is difficult without IDEs writing the code in legacy classes.
